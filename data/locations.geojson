@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "name": "Tea Shop" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.5946, 12.9716]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Library" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.8777, 19.0760]
+        }
+      }
+    ]
+  }
+  
